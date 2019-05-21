@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "AnotherMTest.h"
+#import "MonitorTest.h"
 
 FOUNDATION_EXPORT double TPHomeModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char TPHomeModuleVersionString[];

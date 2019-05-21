@@ -1,7 +1,7 @@
 {
   "name": "TPHomeModule",
-  "version": "0.1.0",
-  "summary": "A short description of TPHomeModule.",
+  "version": "0.1.1",
+  "summary": "This is TPHomeModule.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/KarinoSharuru/TPHomeModule",
   "license": {
@@ -9,11 +9,11 @@
     "file": "LICENSE"
   },
   "authors": {
-    "KarinoSharuru": "dantedeng@kugou.net"
+    "KarinoSharuru": "sasuke.itachi@qq.com"
   },
   "source": {
     "git": "https://github.com/KarinoSharuru/TPHomeModule.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
