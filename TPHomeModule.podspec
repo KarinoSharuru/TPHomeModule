@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TPHomeModule'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TPHomeModule.'
+  s.summary          = 'This is TPHomeModule.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/KarinoSharuru/TPHomeModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'KarinoSharuru' => 'dantedeng@kugou.net' }
+  s.author           = { 'KarinoSharuru' => 'sasuke.itachi@qq.com' }
   s.source           = { :git => 'https://github.com/KarinoSharuru/TPHomeModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
